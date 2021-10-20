@@ -1,0 +1,4 @@
+1,Caleb,3.6,jdtg0@aws.com,female
+2,Aida,3.1,adattt@test.gov,female
+3,Alex,3.4,Adavis@aws.com,male
+4,Meba,3.2,mtravis@yahoo.com,male
